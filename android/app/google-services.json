@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167252218083",
+    "project_id": "putracar-56c6d",
+    "storage_bucket": "putracar-56c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167252218083:android:c3aa1c20b29946da39f5d6",
+        "android_client_info": {
+          "package_name": "com.example.putracar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167252218083-j9tb3ukmncmtpb254bav2mmoggisafrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5NCC41_3_QdJC5x8BsrnwBqnguP1ezA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167252218083-j9tb3ukmncmtpb254bav2mmoggisafrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+name: putracar
+description: A new Flutter application.
+
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
+  firebase_core: ^1.10.6
+  firebase_auth: ^3.3.4
+  cloud_firestore: ^3.1.5
+  firebase_storage: ^10.2.4
+  image_picker: ^0.8.4+4
+  date_time_picker: ^2.1.0
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+      - assets/images/
+
+fonts:
+  - family: Source Sans Pro
+    fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+
+  - family: Pacifico
+    fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+
+  - family: CrimsonText
+    fonts:
+      - asset: assets/fonts/CrimsonText-Regular.ttf
+      - asset: assets/fonts/CrimsonText-Bold.ttf
+      - weight: 700
+
